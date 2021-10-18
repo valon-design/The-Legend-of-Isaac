@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "necromancer_idle_anim_f0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "necromancer_idle_anim_f1.png": {
+      "frame": {
+        "x": 0,
+        "y": 20,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "necromancer_idle_anim_f2.png": {
+      "frame": {
+        "x": 0,
+        "y": 40,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "necromancer_idle_anim_f3.png": {
+      "frame": {
+        "x": 0,
+        "y": 60,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "necromancer_run_anim_f0.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "necromancer_run_anim_f1.png": {
+      "frame": {
+        "x": 0,
+        "y": 20,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "necromancer_run_anim_f2.png": {
+      "frame": {
+        "x": 0,
+        "y": 40,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "necromancer_run_anim_f3.png": {
+      "frame": {
+        "x": 0,
+        "y": 60,
+        "w": 16,
+        "h": 20
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 16,
+        "h": 20
+      },
+      "sourceSize": {
+        "w": 16,
+        "h": 20
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAABQCAYAAAAQq/UNAAAAAXNSR0IArs4c6QAAAVZJREFUWEdjZKAQMFKon2E4GaCkpPSflPC4d+8e2PvwMAAZYMttQpQZh7+eYaC9AQ5/fuB0TfPPK4RdADKgm/ENhiGl/0UY6GdA3Ln5YBfoGvuC6ctnNzMsMkok3gUUG0BRGICcjB6QoAA8wMLBQFI6gBkC0wwyGMMAWDLGlRJBhoBsRtcMT8r4kjGyZrwG1LLrEJUPkBMRiguI0g1VBMtIKLmRFAOQ1Q6iIm20RGJgQE+NoyUSZmECS75El8pklUggTeiFClElEsx5uAoWgiUSVQzAVy4S5QJinI+zTARJgAwgplzEWibCDCC2WBuuZSKx/kdXh9JKI8UQ2rfS8LmGqPbBaDMPUiaOpGYerDwgppk32k6EZLHRMhG1qBlt6tKy9z5aKlOhVCarpYqtTCTYUkXvbOEyBNZ3xihUCQ3/oPedsRpATPsQOROjDMKQ2l+EGQQrFwFzt2pv1efVswAAAABJRU5ErkJggg==",
+    "format": "RGBA8888",
+    "size": {
+      "w": 16,
+      "h": 80
+    },
+    "scale": 1
+  }
+}
