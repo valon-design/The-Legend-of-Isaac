@@ -16,12 +16,11 @@ Folgende Programme müssen zuvor auf dem Computer installiert werden:
 
 ## Anleitung um The Legend of Isaac spielen zu können
 
-1. Das Git Repository mit dem Terminal installieren
+Das Git Repository mit dem Terminal installieren
 
 ```bash
 git clone https://github.com/ourcade/phaser3-parcel-template.git <Zielordner Name>
 ```
-
 Oder man ladet und entpackt die Zip-Datei.
 
 
@@ -47,6 +46,8 @@ Die künstlerischen Ressourcen wie Bilder, Sprite Sheets, sind alle im `public` 
     - Name genug an NPC's müssen die Dialoge mit der Leertaste gelesen werden 
     - Mit [b] kann man einen Dialog zurückspulen und wieder lesen.
     
+    
+ 
 Viel Spass beim Spielen!
 
 
