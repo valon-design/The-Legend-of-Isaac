@@ -1,6 +1,8 @@
 # The Legend of Isaac
 Ein 2D Computerspiel entwickelt für die Maturaarbeit.
-Aufgebaut auf dem Ourcade [TypeScript Template](https://github.com/ourcade/phaser3-typescript-parcel-template)
+
+Aufgebaut auf dem Ourcade [TypeScript Template](https://github.com/ourcade/phaser3-typescript-parcel-template).
+
 Programmiert in JavaScript und TypeScript mithilfe von Phaser 3
 
 ## Voraussetzungen
